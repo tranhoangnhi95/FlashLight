@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:drawable="@raw/bluescreen"
+        android:maxLevel="2"
+        android:minLevel="0"></item>
+    <item
+
+        android:drawable="@raw/blueblackscreen"
+        android:maxLevel="3"
+        android:minLevel="3"></item>
+    <item
+
+        android:drawable="@raw/redscreen"
+        android:maxLevel="6"
+        android:minLevel="4"></item>
+    <item
+        android:drawable="@raw/redblackscreen"
+        android:maxLevel="7"
+        android:minLevel="7"></item>
+
+</level-list>

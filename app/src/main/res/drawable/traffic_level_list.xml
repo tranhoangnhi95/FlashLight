@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:maxLevel="10"
+        android:minLevel="0"
+        android:drawable="@raw/trafficgreen"></item>
+    <item
+
+    android:maxLevel="13"
+    android:minLevel="11"
+    android:drawable="@raw/trafficyellow"></item>
+    <item
+
+        android:maxLevel="20"
+        android:minLevel="14"
+        android:drawable="@raw/trafficred"></item>
+
+</level-list>

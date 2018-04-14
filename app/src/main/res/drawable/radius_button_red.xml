@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/my_black"></solid>
+    <stroke
+        android:width="@dimen/stoke_timer_panel"
+        android:color="@color/timer_red"
+        android:dashGap="@dimen/dash_Gap"
+        android:dashWidth="@dimen/dash_Width"></stroke>
+</shape>
