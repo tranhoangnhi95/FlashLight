@@ -8,6 +8,8 @@
     android:id="@+id/ll_Police"
     tools:context="com.nn12x3.flashlight.PoliceActivity">
     <ImageView
+        android:scaleType="center"
+        android:adjustViewBounds="true"
         android:background="@raw/background"
         android:src="@drawable/police_level_list"
         android:id="@+id/txt_Police"
